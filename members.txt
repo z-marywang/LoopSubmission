@@ -1,0 +1,32 @@
+Members:
+- Hojun (Ashley) Kwon: dropped the class
+- Garrett Wolfe: wrote several queries and triggers in the create file; worked through 
+  serial auto-increment functionality in SQL; worked through back-end Play/Java 
+  functionality to create updateEvent and createEvent methods in LoopDB   
+  to modify events in the database; worked on report and presentation
+- Ha Ngyugen: wrote several queries and triggers in the create file; implement back-end 
+  create group functionality, ID generation, and removing SQL injection attack 
+  vulnerabilities on the model and controller side; contribute to group presentation and 
+  project writeup template
+- Luis Fornes: wrote several parts of the create file; back-end edit event and delete 
+  event logic and functionality, in terms of routing and base code for the view; helped 
+  with project writeup
+- Mary Jiang: I was responsible for ideating the interface of our app and specifying which 
+  SQL queries (and Java methods) were needed to complete the proposed features/design. I 
+  set up and modified the example Play app to work with our database, and helped my team 
+  members get started with using the Play framework. After constructing our html templates 
+  and css files, I implemented features to query/display all events, toggle RSVPs, and 
+  join groups. For each of the other queries/functions my team members wrote, I integrated 
+  them into the rest of our app.
+- Zhixue (Mary) Wang: created all of the production dataset by hand and wrote the loading; 
+  first to complete the set up of the database on vagrant, created loop-db directory, and 
+  helped other members do the same for development; routinely tested the new code as the 
+  only member with vagrant correctly set up with the app; set up user login page using the 
+  view, routing, editing Application.main, and creating the authentication method in 
+  LoopDB.java; set up new error pages to correctly route back to the last page upon the 
+  error; set up the frontend and routing for the forms used for creating events, editing 
+  events, and creating groups; helped make the user interface consistent and sleek by 
+  adding the same formatting across forms; wrote the README and helped with the report; 
+  set up many of the meetings
+
+
